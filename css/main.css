@@ -166,6 +166,10 @@ body {
   background-color: var(--dark-magenta);
 }
 
+.desktop .review__description {
+  color: var(--light-magenta);
+}
+
 @media only screen and (min-width: 900px) {
   .wrapper {
     padding-left: 8rem;

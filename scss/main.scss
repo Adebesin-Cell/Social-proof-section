@@ -11,6 +11,9 @@
 }
 html {
   font-size: 62.5%;
+  // @media only screen and (min-width: 900px) {
+  //   font-size: 50%;
+  // }
 }
 body {
   font-family: "Spartan", sans-serif;
@@ -139,6 +142,9 @@ body {
   }
   .review__card {
     background-color: var(--dark-magenta);
+  }
+  .review__description {
+    color: var(--light-magenta);
   }
 }
 
